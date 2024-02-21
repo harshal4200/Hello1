@@ -15,6 +15,11 @@
       "checksum": "2C372A7AA51EFF6E5BE56E3D2D56DD55D63FBDF58A4D2E279392A02B55DDB960",
       "size": 1416
     },
+    "White Minimalist Corporate Personal Profile LinkedIn Banner (1).png": {
+      "name": "White Minimalist Corporate Personal Profile LinkedIn Banner (1).png",
+      "checksum": "0649806BA92DBD13B5D445CF83B06F0FC1A5BBD3761EBE0A911616B56E511A08",
+      "size": 410240
+    },
     "_config.yml": {
       "name": "_config.yml",
       "checksum": "A42D91290C93B5F17412C3B346737EA1C796E5D287306758AFE8B20470119D80",
@@ -52,5 +57,5 @@
     }
   },
   "zip_url": "https://codeload.github.com/harshal4200/hello1/zip/refs/heads/main",
-  "checksum": "CC46C6408B8ED53930E753C2F275C2273552EDB72838187AA577855AC0CEB5EB"
+  "checksum": "0AB00722E56EFAF4B2B83F8C6EA79E6D383472B3359C479925E5C632C18DC96C"
 }
